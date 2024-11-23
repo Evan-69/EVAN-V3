@@ -1,4 +1,4 @@
-process.stdout.write("\x1b]2;BAYJID BOT - Made by 𝐁𝐀𝐘𝐉𝐈𝐃-৬T৯");
+process.stdout.write("\x1b]2;BAYJID BOT - Made by BAYJID-৬T৯");
 const defaultRequire = require;
 
 function decode(text) {
@@ -718,12 +718,12 @@ async function startBot(loginWithEmail) {
 			let hasBanned = false;
 			global.botID = api.getCurrentUserID();
 			logColor("#f5ab00", createLine("BOT INFO"));
-			log.info("𝐁𝐀𝐘𝐉𝐈𝐃-৬T৯ NODE VERSION", process.version);
-			log.info("𝐁𝐀𝐘𝐉𝐈𝐃-৬T৯ PROJECT VERSION", currentVersion);
-			log.info("𝐁𝐀𝐘𝐉𝐈𝐃-৬T৯ BOT ID", `${global.botID} - ${await getName(global.botID)}`);
-			log.info("𝐁𝐀𝐘𝐉𝐈𝐃-৬T৯ PREFIX", global.GoatBot.config.prefix);
-			log.info("𝐁𝐀𝐘𝐉𝐈𝐃-৬T৯ LANGUAGE", global.GoatBot.config.language);
-			log.info("𝐁𝐀𝐘𝐉𝐈𝐃-৬T৯ BOT NICK NAME", global.GoatBot.config.nickNameBot || "ARYAN BOT");
+			log.info("BAYJID-৬T৯ NODE VERSION", process.version);
+			log.info("BAYJID-৬T৯ PROJECT VERSION", currentVersion);
+			log.info("BAYJID-৬T৯ BOT ID", `${global.botID} - ${await getName(global.botID)}`);
+			log.info("BAYJID-৬T৯ PREFIX", global.GoatBot.config.prefix);
+			log.info("BAYJID-৬T৯ LANGUAGE", global.GoatBot.config.language);
+			log.info("BAYJID-৬T৯ BOT NICK NAME", global.GoatBot.config.nickNameBot || "ARYAN BOT");
 			// ———————————————————— GBAN ————————————————————— //
 			let dataGban;
 
@@ -822,9 +822,9 @@ async function startBot(loginWithEmail) {
 
 								const infoLoad = global.utils.loadScripts("cmds", filename, log, global.GoatBot.configCommands, api, threadModel, userModel, dashBoardModel, globalModel, threadsData, usersData, dashBoardData, globalData);
 								if (infoLoad.status == "success")
-									log.master("ARYAN AUTO LOAD SCRIPTS", `Command ${filename}.js (${infoLoad.command.config.name}) has been reloaded`);
+									log.master("BAYJID AUTO LOAD SCRIPTS", `Command ${filename}.js (${infoLoad.command.config.name}) has been reloaded`);
 								else
-									log.err("ARYAN AUTO LOAD SCRIPTS", `Error when reload command ${filename}.js`, infoLoad.error);
+									log.err("BAYJID AUTO LOAD SCRIPTS", `Error when reload command ${filename}.js`, infoLoad.error);
 							}
 							catch (err) {
 								log.err("BAYJID AUTO LOAD SCRIPTS", `Error when reload command ${filename}.js`, err);
@@ -886,9 +886,9 @@ async function startBot(loginWithEmail) {
 					log.master("BAYJID ADMINBOT", `[${++i}] ${uid}`);
 				}
 			}
-			log.master("𝐁𝐀𝐘𝐉𝐈𝐃-৬T৯ NOTIFICATION", (notification || "").trim());
-			log.master("𝐁𝐀𝐘𝐉𝐈𝐃-৬T৯ SUCCESS", getText('login', 'runBot'));
-			log.master("𝐁𝐀𝐘𝐉𝐈𝐃-৬T৯ LOAD TIME", `${convertTime(Date.now() - global.GoatBot.startTime)}`);
+			log.master("BAYJID-৬T৯ NOTIFICATION", (notification || "").trim());
+			log.master("BAYJID-৬T৯ SUCCESS", getText('login', 'runBot'));
+			log.master("BAYJID-৬T৯ LOAD TIME", `${convertTime(Date.now() - global.GoatBot.startTime)}`);
 			logColor("#f5ab00", createLine("COPYRIGHT"));
 			// —————————————————— COPYRIGHT INFO —————————————————— //
 			// console.log(`\x1b[1m\x1b[33mCOPYRIGHT:\x1b[0m\x1b[1m\x1b[37m \x1b[0m\x1b[1m\x1b[36mProject ARYAN BOT created by ADRIYAN 卝 ARYAN࿐ツ (https://github.com/ARYAN-BOT-404), please do not sell this source code or claim it as your own. Thank you!\x1b[0m`);
