@@ -35,9 +35,9 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61564523816700",
-    "61565025325331",
-    "100076969407340"
+    "100005193854879",
+    "",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
@@ -48,20 +48,20 @@
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Ar Yan🍫",
-  "prefix": "*",
+  "nickNameBot": "BAY JID🍫",
+  "prefix": "/",
   "ArYanapi": "",
   "api": "",
   "api2": "",
   "api3": "",
-  "authorName": "ArYan",
-  "facebook2": "https://www.facebook.com/raj.vai.404",
-  "facebook": "https://www.facebook.com/ArYan.com.404",
-  "email": "davidaryan397@gmail.com",
-  "replit": "https://replit.com/@DAVID-RAJ",
-  "github": "https://github.com/DAVID-ARYAN-RAJ/ARYAN-RAJ",
+  "authorName": "BaYjiD",
+  "facebook2": "https://www.facebook.com/BAYJID.404",
+  "facebook": "https://www.facebook.com/BAYJID.404",
+  "email": "ewrbiju@gmail.com",
+  "replit": "https://replit.com/@ERROR",
+  "github": "https://github.com/BAYJID404",
   "insta": "no",
-  "age": "18+",
+  "age": "17+",
   "TG": "",
   "database": {
     "type": "sqlite",
