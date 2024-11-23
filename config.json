@@ -35,30 +35,30 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61566369721724"
+    "100005193854879"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61566369721724"
+      "100005193854879"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "ADRIYAN 卝 ARYAN࿐ツ",
-  "prefix": "/",
+  "nickNameBot": "𝐁𝐀𝐘𝐉𝐈𝐃-৬T৯ツ",
+  "prefix": "?",
   "ArYanapi": "https://aryan-rest-api.onrender.com",
   "api": "",
   "api2": "",
   "api3": "",
-  "authorName": "ArYan 🤡",
-  "facebook2": "https://www.facebook.com/raj.vai.404",
-  "facebook": "https://www.facebook.com/ArYan.com.404",
+  "authorName": "𝐁𝐀𝐘𝐉𝐈𝐃-৬T৯🤡",
+  "facebook2": "https://www.facebook.com/BAYJID.404",
+  "facebook": "https://www.facebook.com/BAYJID.404",
   "email": "adriyanaryan@yahoo.com",
-  "replit": "https://replit.com/@ARYAN-BOT",
-  "github": "https://github.com/ARYAN-BOT-404",
-  "insta": "no",
-  "age": "18+",
-  "TG": "",
+  "replit": "https://replit.com/@BAYJID-XD",
+  "github": "https://github.com/BAYJID404",
+  "insta": "mr_bayjid120",
+  "age": "17+",
+  "TG": "@MOHAMMADBAYJID",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
